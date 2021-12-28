@@ -10,6 +10,7 @@
  - HTML
  - CSS
  - Bootstrap
+ - Markdown
 
 ## :nerd_face: Aprendizados
 O que eu aprendi e coloquei em prática, com o desenvolvimento dessa landing page:
